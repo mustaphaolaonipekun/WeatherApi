@@ -104,6 +104,10 @@ main {
   margin: 5px;
   margin-bottom: 15px;
 }
+.fore img{
+  width: 40%;
+  height: 20%;
+}
 .hour {
   display: flex;
   flex-wrap: wrap;
